@@ -1,3 +1,10 @@
-# My Awesome Book
+# The Histories
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The Histories details the long, beleaguered history of CompSoc as chronicled by Willrodotus \(aka neanias, aka William Mathewson\), with help from old people, Jammy Wheatley and Kit Barnes.
+
+## Broad overview
+
+* `2007-09-24T12:49:59Z` - comp-soc.com registered
+
+
+
