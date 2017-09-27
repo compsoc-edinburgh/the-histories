@@ -4,6 +4,7 @@ The Histories details the long, beleaguered history of CompSoc as chronicled by 
 
 ## Broad overview
 
+* 2001 - CompSoc founded
 * `2007-09-24T12:49:59Z` - comp-soc.com registered
 
 
